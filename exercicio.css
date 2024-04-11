@@ -1,0 +1,16 @@
+body
+{
+    background-color: cornflowerblue;
+}
+article
+{ 
+    border: 1px solid #808080 ;
+    margin: auto;
+    height: 300px;
+    width: 300px;
+}
+aside
+{
+    border: 100px solid cornflowerblue;
+    margin: auto;
+}
